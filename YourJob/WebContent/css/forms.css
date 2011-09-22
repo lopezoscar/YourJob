@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+
+#register{
+
+}
+
+.block{
+	display:block;
+}
+
+#register form input{
+	display:block;
+}
+
+#login form input{
+	display:block;
+}
+
+#login{
+	margin-left:45%;
+	margin-bottom:10px;
+	
+}
+
+#registerCompany{
+	margin-left:45%;
+	margin-bottom:10px;
+}
+
+#registerCompany form input{
+	display:block;
+}
+
+#registerCurriculum{
+	margin-left:45%;
+	margin-bottom:10px;
+}
+
+#registerCurriculum form input{
+	display:block;
+}
+
+
+
