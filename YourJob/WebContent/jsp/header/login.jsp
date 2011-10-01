@@ -20,10 +20,8 @@
 
 
 <body>
-
 	<div id="container">
-	
-	<div id="header">
+		<div id="header">
 		<!-- Link y logo del home -->
 			<a href="../../index.jsp" title="Home"><img src="../../imagenes/logoYourJobOrg.jpg" alt="logo Your Job" /></a>
 			<div id="socialLinks">
@@ -71,25 +69,25 @@
 			<div id="banners">
 				<!-- Objetos para archivos SWF -->
 				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="300" height="257">
-				  <param name="movie" value="jsp/banners/ciscoFinal.swf" />
+				  <param name="movie" value="../../jsp/banners/ciscoFinal.swf" />
 				  <param name="quality" value="high" />
 				  <param name="play" value="true">
 				  <param name="loop" value="true">
-				  <embed src="jsp/banners/ciscoFinal.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="257"></embed>
+				  <embed src="../../jsp/banners/ciscoFinal.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="257"></embed>
 				</object>
 				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="300" height="257">
-				  <param name="movie" value="jsp/banners/oracle.swf" />
+				  <param name="movie" value="../../jsp/banners/oracle.swf" />
 				  <param name="quality" value="high" />
 				  <param name="play" value="true">
 				  <param name="loop" value="true">
-				  <embed src="jsp/banners/oracle.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="257"></embed>
+				  <embed src="../../jsp/banners/oracle.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="257"></embed>
 				</object>
 				<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="300" height="257">
-				  <param name="movie" value="jsp/banners/deloitteFinal.swf" />
+				  <param name="movie" value="../../jsp/banners/deloitteFinal.swf" />
 				  <param name="quality" value="high" />
 				  <param name="play" value="true">
 				  <param name="loop" value="true">
-				  <embed src="jsp/banners/deloitteFinal.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="257"></embed>
+				  <embed src="../../jsp/banners/deloitteFinal.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="257"></embed>
 				</object>
 			</div>
 			<!-- Fin Banners -->
@@ -140,8 +138,6 @@
 			
 		</div>
 		<!-- Fin de footerContent -->		
-	</div>
-	
 	</div>
 	<!-- Fin del container -->
 
