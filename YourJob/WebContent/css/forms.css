@@ -59,7 +59,9 @@
 	margin-right:10px;
 	margin-top:40px;
 }
-
+#registerCurriculum form h2{
+	color:rgb(87,87,87);
+}
 #registerCurriculum form input{
 	display:block;
 }
